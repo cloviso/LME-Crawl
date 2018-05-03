@@ -1,0 +1,16 @@
+ ------------------------------------------------------------------------
+  __  __  _____  _____         _____ ______ _   _ _______ ______ _____  
+ |  \/  |/ ____|/ ____|       / ____|  ____| \ | |__   __|  ____|  __ \ 
+ | \  / | (___ | |  __ ______| |    | |__  |  \| |  | |  | |__  | |__) |
+ | |\/| |\___ \| | |_ |______| |    |  __| | . ` |  | |  |  __| |  _  / 
+ | |  | |____) | |__| |      | |____| |____| |\  |  | |  | |____| | \ \ 
+ |_|  |_|_____/ \_____|       \_____|______|_| \_|  |_|  |______|_|  \_\
+ : :  By ShanghaiDL information S&T Co., LTD  ©2017  All Rights Reserved.
+                                                       上海delight有限公司
+*************************************************************************
+                              WARNING
+    The information contained in this project and any attachment(s) 
+    of it should be held in strictest confidence, and not be disclosed 
+    to any other individual or entity without prior written approval 
+    of the provider of this document.
+*************************************************************************

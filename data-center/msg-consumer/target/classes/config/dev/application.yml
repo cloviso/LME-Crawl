@@ -1,0 +1,13 @@
+#log
+logging:
+  file: /home/diliang/logs/msg-consumer.log
+  level:
+    root: INFO
+
+### repository db
+ctrm:
+  datasource:
+    url: jdbc:mysql://localhost:3306/webmagic?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+    driverClassName: com.mysql.jdbc.Driver

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: data-consumer - 0.0.1-SNAPSHOT
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: WIN 10
+Implementation-Vendor-Id: com.maikegroup.delight
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/data-center/
+ data-consumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
